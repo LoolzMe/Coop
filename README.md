@@ -15,6 +15,8 @@ We stopped on creating 3D simulation of the traffic system, and using ML algorit
 
 ## How to run it?
 
+(The full instruction can be found in Docs/ folder)
+
 Start using "python3 project.py"
 
 Requirements:
